@@ -1,0 +1,17 @@
+{
+  "name": "gif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./bin/script"
+  },
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "gif-encoder": "^0.7.2",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.5",
+    "puppeteer": "^1.19.0",
+    "puppeteer-recorder": "^1.0.7"
+  }
+}
